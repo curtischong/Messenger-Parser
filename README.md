@@ -62,4 +62,4 @@ Next you should get the [Extensions Reloader](https://chrome.google.com/webstore
 
 **Warning**
 
-If you change the [`manifest.json`](manifest.json) you must manually turn off/on in `chrome://extensions/` or your changes won't propagate.
+If you change the [`manifest.json`](manifest.json) you must manually turn off/on the extension in `chrome://extensions/` or your changes won't propagate. Extensions Reloader will not work for manifest changes.
